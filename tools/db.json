@@ -69,11 +69,44 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
+    },
+    {
+      "id": 11,
+      "slug": "testcourse",
+      "title": "TestCourse",
+      "authorId": 1,
+      "category": "TestCourse",
+      "createdAt": 1644324745613
+    },
+    {
+      "id": 12,
+      "slug": "silas",
+      "title": "silas",
+      "authorId": 1,
+      "category": "sdd",
+      "createdAt": 1644325683421
+    },
+    {
+      "id": 13,
+      "slug": "secure-the-king",
+      "title": "Secure the King",
+      "authorId": 1,
+      "category": "King",
+      "createdAt": 1644326466058
     }
   ],
   "authors": [
-    { "id": 1, "name": "Cory House" },
-    { "id": 2, "name": "Scott Allen" },
-    { "id": 3, "name": "Dan Wahlin" }
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
   ]
 }
