@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": 1,
-      "title": "SecurinG React Apps with Auth0",
+      "title": "Securin React Apps with Auth",
       "slug": "react-auth0-authentication-security",
       "authorId": 1,
       "category": "JavaScript"
@@ -25,13 +25,6 @@
       "id": 4,
       "title": "Building a JavaScript Development Environment",
       "slug": "javascript-development-environment",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
-      "id": 5,
-      "title": "Building Applications with React and Redux",
-      "slug": "react-redux-react-router-es6",
       "authorId": 1,
       "category": "JavaScript"
     },
@@ -69,30 +62,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "slug": "testcourse",
-      "title": "TestCourse",
-      "authorId": 1,
-      "category": "TestCourse",
-      "createdAt": 1644324745613
-    },
-    {
-      "id": 12,
-      "slug": "silas",
-      "title": "silas",
-      "authorId": 1,
-      "category": "sdd",
-      "createdAt": 1644325683421
-    },
-    {
-      "id": 13,
-      "slug": "secure-the-king",
-      "title": "Secure the King",
-      "authorId": 1,
-      "category": "King",
-      "createdAt": 1644326466058
     }
   ],
   "authors": [
